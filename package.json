@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://robodonn1.github.com/shestakov-react-porfolio",
+  "homepage": "https://robodonn1.github.io/shestakov-react-porfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
